@@ -8,9 +8,9 @@ Touchbar Pets is a virtual pet which lives on your touchbar. You can walk it, de
 
 ## v1.2.0
 
-INTRODUCING RABBITS!!
-Added 2 new items (1xFood,1xDesign) 
-Squashed some bugs! (Bug fixes)
+* INTRODUCING RABBITS!!
+* Added 2 new items (1xFood,1xDesign) 
+* Squashed some bugs! (Bug fixes)
 
 ## Download
 
